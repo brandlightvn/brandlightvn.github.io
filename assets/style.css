@@ -85,6 +85,23 @@ p { margin: 0 0 1em; color: var(--fg-muted); }
   justify-content: space-between;
   height: 72px;
 }
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.lang-switch a { color: var(--fg-muted); padding: 2px 3px; }
+.lang-switch a:hover { color: var(--fg); }
+.lang-switch a.active { color: var(--accent); }
+.lang-switch a:not(:last-child) { border-right: 1px solid var(--line); padding-right: 8px; }
 .brand-logo {
   height: 44px;
   width: auto;
