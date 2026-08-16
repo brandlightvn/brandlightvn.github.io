@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brandlightvn.github.io/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.github.io/vi/"/>
-    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.github.io/th/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.github.io/"/>
+    <loc>https://brandlightvn.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.com/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.com/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.com/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.com/"/>
   </url>
   <url>
-    <loc>https://brandlightvn.github.io/vi/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.github.io/vi/"/>
-    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.github.io/th/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.github.io/"/>
+    <loc>https://brandlightvn.com/vi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.com/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.com/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.com/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.com/"/>
   </url>
   <url>
-    <loc>https://brandlightvn.github.io/th/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.github.io/vi/"/>
-    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.github.io/th/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.github.io/"/>
+    <loc>https://brandlightvn.com/th/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandlightvn.com/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://brandlightvn.com/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://brandlightvn.com/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandlightvn.com/"/>
   </url>
 </urlset>

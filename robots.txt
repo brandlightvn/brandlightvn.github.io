@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brandlightvn.github.io/sitemap.xml
+Sitemap: https://brandlightvn.com/sitemap.xml
